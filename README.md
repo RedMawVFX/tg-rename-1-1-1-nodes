@@ -20,15 +20,15 @@ In this repository you’ll find the Python script “tg_rename_1_1_1_nodes.py�
 
 ### Usage:
 
-![tg_rename_1_1_1_nodes.py GUI] (images/tg_rename_1_1_1_nodes_gui.jpg) 
+![tg_rename_1_1_1_nodes.py GUI](images/tg_rename_1_1_1_nodes_gui.jpg)
 
 This script irreversibly modifies the node names. Please back up your Terragen project before running this script.  <br>
 
 Upon completion, this script will display a summary of the changes made to the node names in the project.  You can choose to display this information in the order in which the nodes were added to the project, or alphabetically from A to Z, or in reverse from Z to A.  Clicking the “Yes” button will allow you to save the summary to disk. <br>
 
-![Summary report by project order] (images/tg_rename_1_1_1_nodes_results_project_order.jpg) <br>
-![Summary report in A - Z order] (images/tg_rename_1_1_1_nodes_results_a-z_order.jpg) <br>
-![Summary report in Z - A order] (images/tg_rename_1_1_1_nodes_results_z-a_order.jpg) <br>
+![Summary report in project order](images/tg_rename_1_1_1_nodes_results_project_order.jpg) <br>
+![Summary report in A - Z order](images/tg_rename_1_1_1_nodes_results_a-z_order.jpg) <br>
+![Summary report in Z - A order](images/tg_rename_1_1_1_nodes_results_z-a_order.jpg) <br>
 
 ### Known issues:
 
