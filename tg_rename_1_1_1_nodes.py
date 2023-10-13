@@ -6,7 +6,7 @@ import terragen_rpc as tg
 
 gui = Tk()
 gui.geometry("650x640")
-gui.title("wip_rename_1_1_1_nodes.py")
+gui.title("tg_rename_1_1_1_nodes.py")
 gui.config(bg="#89B2B9")
 
 gui.rowconfigure(0,weight=1)
