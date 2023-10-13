@@ -16,19 +16,20 @@ https://github.com/planetside-software/terragen-rpc
 ### Installation:
 
 Make sure you’ve installed Terragen 4 Professional v4.6.31 or greater on your computer, and installed the terragen_rpc module, via the pip install command. <br>
+
 In this repository you’ll find the Python script “tg_rename_1_1_1_nodes.py” and supporting example content. The images folder contains an icon file, should you wish to create a shortcut on your desktop for the python script. <br>
 
 ### Usage:
 
-![tg_rename_1_1_1_nodes.py GUI](images/tg_rename_1_1_1_nodes_gui.jpg)
+![tg_rename_1_1_1_nodes.py GUI](images/tg_rename_1_1_1_nodes_gui_v2.jpg)
 
 This script irreversibly modifies the node names. Please back up your Terragen project before running this script.  <br>
 
-Upon completion, this script will display a summary of the changes made to the node names in the project.  You can choose to display this information in the order in which the nodes were added to the project, or alphabetically from A to Z, or in reverse from Z to A.  Clicking the “Yes” button will allow you to save the summary to disk. <br>
+Click on the "Analyze project/Refresh list" button.  The script will read through the Terragen project looking for nodes that end in "_1" and display the results.  This may take awhile, depending on the number of nodes in your project. <br>
 
-![Summary report in project order](images/tg_rename_1_1_1_nodes_results_project_order.jpg) <br>
-![Summary report in A - Z order](images/tg_rename_1_1_1_nodes_results_a-z_order.jpg) <br>
-![Summary report in Z - A order](images/tg_rename_1_1_1_nodes_results_z-a_order.jpg) <br>
+Select the nodes you want to rename.  Clicking the "Select all" button will select all the nodes, whilst clicking "Select none" will deselect all the nodes. <br>
+
+Click the "Rename nodes" button to rename the selected nodes. <br>
 
 ### Known issues:
 
