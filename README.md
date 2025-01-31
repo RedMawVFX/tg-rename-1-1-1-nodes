@@ -1,4 +1,9 @@
 # tg-rename-1-1-1-nodes
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit/tree/main/scripts/tg-rename-1-1-1-nodes) to go directly to the <i>tg-rename-1-1-1-nodes</i> folder in the redmaw-tg-toolkit.
+<hr>
 A fully functional Python script implementing Terragen 4 Professional’s remote procedure call (RPC) feature to rename nodes in the active Terragen project with names ending in “_1”.  
 
 In Terragen, whenever a node is duplicated or an item is loaded into the project with the same name as an existing item, the suffix “_1” is automatically appended to the name to keep it unique.  When there are many such items in the project, these names can seem unmanageable and not very descriptive.  This script attempts to remedy this situation by renaming nodes ending in “_1” with a more logical numeric extension. <br>
